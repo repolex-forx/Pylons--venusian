@@ -1,0 +1,7 @@
+[2026-10-18T08:52:14Z] === AST ITERATION 1 START | repo=Pylons/venusian sha=d036c00a ===
+[2026-10-18T08:52:14Z] [iter=1] PHASE START: ast repo=Pylons/venusian sha=d036c00a
+[2026-10-18T08:52:14Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T08:52:26Z] [iter=1] AST chunks built count=1 triples=100071
+[2026-10-18T08:52:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d036c00afa4e8c3077ab53a22290ac19fed652b2/.complete
+[2026-10-18T08:52:26Z] [iter=1] PHASE END: ast elapsed_s=12 elapsed_min=0.2
+[2026-10-18T08:52:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
