@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/venusian/commit/d036c00afa4e8c3077ab53a22290ac19fed652b2",
       "git:hexsha": "d036c00afa4e8c3077ab53a22290ac19fed652b2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T08:53:22.424270+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/venusian/commit/164d6cdfc391309b110b666d2c3748d99074634e",
